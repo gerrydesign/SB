@@ -7,7 +7,7 @@ package com
 	import flash.events.MouseEvent;
 	import flash.text.TextFormat;
 	import flash.text.TextField;
-    import flash.text.TextFieldAutoSize;
+	import flash.text.TextFieldAutoSize;
 	import flash.text.TextFormat;
 	import flash.text.TextFormatAlign;
 	import flash.text.AntiAliasType;
